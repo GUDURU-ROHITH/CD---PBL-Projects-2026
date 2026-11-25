@@ -114,3 +114,7 @@ py -m compileall -q src run_gui.py
 ```
 
 The GUI tests in `tests/test_basic.py` require PyQt6 installed in the active Python environment.
+
+vedio 
+https://drive.google.com/drive/folders/1bQZPMF7K6wKTTtgb4PeeNwaGJtVUGMVE?usp=drive_link
+
